@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
       switch (command) {
         case 'list':
 lkr = ` ${readMore}
-  ✦ ───『 *ɢʀᴏᴜᴘ* 』─── ⚝
+  ✦ ───『 *SHAN* 』─── ⚝
   ◈ .ɢᴇᴛʙɪᴏ <@ᴛᴀɢ/ʀᴇᴘʟʏ>  Ⓛ
   ◈ .ᴀɴɪᴍᴇϙᴜᴏᴛᴇ
   ◈ .Sᴇᴛᴅᴇsᴄ <ᴛᴇxᴛ>
