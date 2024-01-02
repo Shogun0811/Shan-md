@@ -58,10 +58,10 @@ let infobt = `
 *≡ OWNER🧑‍💻*
  _PRINCE GDS_
 ▢ MY CONTACT NUMBER.
-  wa.me/923042205427
+  wa.me/+923046950301
   
 ▢ MY BOT GC LINK.
-  https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS
+  https://chat.whatsapp.com/CvRhsxGwy1IHceYhCbEjry
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
