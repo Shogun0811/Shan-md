@@ -1,14 +1,14 @@
 #### UNDERDEVELOPMENT
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="">
+    <img alt="SHAN" width="600" height="350" src="https://i.imgur.com/VWP9e4f.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Shan974/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE-PRINCE-BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️</h1>
+<h1 align="center">🛡️SHAN BOT🛡️</h1>
 
 #### 🪩 To Change the owner number click here [Config](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/config.js#L8)🪩
 
@@ -96,7 +96,6 @@ $ npm start
 
 <h2 align="left">All Credits To Guru bruh</h2>
 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="70" height="70" alt="Guru322"/></a>
+<a href="https://github.com/Guru322"><img src="https://github.com/Itxxwasi.png" width="70" height="70" alt="Itxxwasi"/></a>
   
-`GURU-bhay Guru322`
 
