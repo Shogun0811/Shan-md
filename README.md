@@ -18,7 +18,7 @@
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️SHAN BOT🛡️</h1>
+<h1 align="center">🛡️SHAN MD BOT🛡️</h1>
 
 #### 🪩 To Change the owner number click here [Config](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/config.js#L8)🪩
 
@@ -26,8 +26,7 @@
 <p align="left">
 <a href="https://replit.com/@Itxxwasi/SHAN-MD"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION FOR SHAN MD-black?style=for-the-badge&logo=replit"></a>
 
- <p align="left">
-<a href="https://replit.com/@Itxxwasi/SHAN-MD"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION SERVER 2-black?style=for-the-badge&logo=replit"></a>
+ <p 
 <p/>
 
 ****
