@@ -36,7 +36,7 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *🛡️ᕼᗩᑎS-BOT-MÐ🛡️*
+let str = ` *😻 SHAN MD BOT 😹*
 
 
 ╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
@@ -58,7 +58,7 @@ let str = ` *🛡️ᕼᗩᑎS-BOT-MÐ🛡️*
 │
 │ *${greeting}*
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯
-📚 *_Quote of the day: ${quote}_* 📚
+📚 *_Jawn Quote of the day: ${quote}_* 📚
 `
 
 
@@ -130,7 +130,7 @@ function clockString(ms) {
       "I am so clever that sometimes I don't understand a single word of what I am saying.",
       "Some people just need a high-five. In the face. With a chair.",
       "I'm not saying I'm perfect, but I'm pretty close.",
-      "A day without sunshine is like, you know, night.",
+      "Lun Lello.",
       "The best way to predict the future is to create it.",
       "If you can't be a good example, then you'll just have to be a horrible warning.",
       "I don't know why I keep hitting the escape button. I'm just trying to get out of here.",
